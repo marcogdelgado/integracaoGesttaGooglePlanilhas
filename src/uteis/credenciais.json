@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "mystic-braid-330906",
+  "private_key_id": "9e52a4602024ab2835cd248093888dc829f95856",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCjzM6w/sl6ALC1\nONhPWdfb9Q47YuFZPnln9rt0IFHDHe4CQzECqweoWrJBddPIkwe9zc1xAWSDxTvZ\nsHSgOkyOPGwcAfpIMWmHhdFaV7CLjZb6jKr5QldWmggTqOc4M+4J3mq9hTEX0NEB\ns6YckH3ScvL0l+PuaupYptCgd++tfnEbMqBPoj6ryQY20SDKdG1GrZYpQC3IfWgs\nYlXCnST3SuZjTq7UrUd7SaMOv2eyp91/yapvGSm+v9KhmghyUyQ+OEOciUU+J5oO\nfoAeWzMGVxu6uFtrqzY/+SIQYZsEyGLZd/bPs0n3RwgeTVaCkPmGRXj8D6aupyuw\nY8S9hLjPAgMBAAECggEAHW+lZ15qU7ADEZY1HVF+fstTsu1qpPCavcmz10MlnmRn\nDOYJTTryJdmitivYEvAFUKFG/btr1lhgEJdq5g6ECn2mSgQ697VViyLLxCoFEpcv\n3jfgU+oNqwUEVZAheVKvwPtFAGkKsQZ4QQ+JVxHKYsMAkV8oeYSiN6tGy8ex/WH1\nkNdVd3wwxwFEj47BrLnW2zt6pUFmv47xblowW4gTDGR+wRdViwONZBrQq3T9GYun\nc6JhaRHU2HJG5l4rh/5BST6Kn83XXCn+aj4s7UpZFKqW5Lp8U4+4iEwSRosOTtZ0\niGQp+TD2+OwmujUXKwkX3IqtJ3FU+cXdn3Dkwt2KbQKBgQDREGkXi5gvEGhr5JPw\nNwbF4fkKnftwv5CDLh6WeGIgtjjKWuLrr//nfuoozRIOrZv4CwYJiUzjGGEMHXHE\nlr219bcsnr5Tr3heULt7hjYFRu5E3eyptbiUMsGvpAd2AVsCsRXgpsCee8d0apzJ\nRozqFn4P9Wv/17HudziSN2Aw5QKBgQDIkuycK17cE582hcTfulYL4Qeq54yZR4hl\ni+gzMb758OUtYGsu7+vIOBmZnb+5fu13KNe70bgbQhCrT153hYMqireK0SLaTKGB\nUG/RfizX9DbduWlYyUgAIxeMGi51Le1OyzHxhsY3JuBBzWhg+fmhC6va7ABsndaX\n2K5AmoDLowKBgQCjRx3Mtcl1eGsVWL/xrAguI/5MvHXT6MkEqtBY1ExPIAHaiIER\ncbN7KTPYCdFAhXZ6kqF0cTcLZc7ll1lzIAeqRO16e8BJu5FWl9bU8kzecjdEsc5T\n/QjbNYjvlDv/fa+GuqdLfPCS1jlAQsOQrvj/GfH6pMJkXiEpDROxnm4RwQKBgQCX\n7LouXKegmXhKiy6hrHnKy6vMJ1GXNNi62iuKw459sZtWMKdfSTnWUbAKbLOxpNPo\nI1atnGAQvYz0xcyvScEdsy7thhYZNlxLIAtiqmj7Nq9saSnDp8rS18HZTGeOOLh8\nq2rsIIL5eYf6L8V1V0NfWgDVdVeo7jGCmQz8QEt4cwKBgHqIngTeqe4Xkok6obgT\nLAlHyOTC9Z0/ssQf9F1+XkjR/+d0Qb2dpVJVWrZNS1q5t2cL4tEyw9sGjWjJ1eWT\nnNI399RpekUDQ6PHcbMaiE9y4cmz7QUktH3xh+3EQL8MvDGYt6w86gHsXRVf6Wbb\no/NXaeM3v8biiVJpnAIlelsT\n-----END PRIVATE KEY-----\n",
+  "client_email": "uphold@mystic-braid-330906.iam.gserviceaccount.com",
+  "client_id": "117946466211291823817",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/uphold%40mystic-braid-330906.iam.gserviceaccount.com"
+}
