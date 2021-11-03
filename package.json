@@ -12,6 +12,7 @@
     "google-spreadsheet": "^3.1.15",
     "googleapis": "^39.2.0",
     "neat-csv": "^7.0.0",
+    "node-schedule": "^2.0.0",
     "puppeteer": "^10.4.0"
   },
   "devDependencies": {},
